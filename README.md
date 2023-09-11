@@ -1,7 +1,7 @@
 # Интеллектуальный анализ данных
 В данном репозитории представлен перечень материалов по предмету **"Интеллектуальный анализ данных"** для студентов группы **2022-ФГиИБ-ПИ-1м**.
 
-[Статистика выполнения работ **2022-ФГиИБ-ПИ-1м**](https://docs.google.com/spreadsheets/d/1pyurkMjftlyoCm9ouYOaCznE4KsYFb3fXyPKyGOidkE/edit?usp=sharing)  
+[Статистика выполнения работ **2022-ФГиИБ-ПИ-1м**](https://docs.google.com/spreadsheets/d/12q5onvhx6U_1KrHUFlIXzcPkfCep6D8HqzzBsoeboT8/edit?usp=sharing)  
 
 [Дополнительная литература](https://cloud.mail.ru/public/veX3/Aasf7g7U8)
 
