@@ -6,7 +6,7 @@
 [Дополнительная литература](https://cloud.mail.ru/public/veX3/Aasf7g7U8)
 
 <div id="header" align="center">
-<!--   <img src="https://i.gifer.com/74pZ.gif" width="300"/> -->
+<!--   <img src="https://i.gifer.com/74pZ.gif" width="150"/> -->
   <img src="https://i.pinimg.com/originals/fb/47/4b/fb474b70b4092f95c379e633ca58d27c.gif" width="1500"/>
 <!--   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdoYmNtamZybXRldXU4bjI0ZnFienhodnVtZHVqbzVvNTJ4MXdxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UcK7JalnjCz0k/giphy.gif" width="125"/>
 </div> -->
