@@ -6,7 +6,8 @@
 
 [Дополнительная литература](https://cloud.mail.ru/public/veX3/Aasf7g7U8)
 
-[ИНДИВИДУАЛЬНОЕ ЗАДАНИЕ](https://colab.research.google.com/drive/1MoAUgcCaWWJ-c-Rq7Gcc1QmC_PYnyPVd?usp=sharing)
+[Индивидуальное задание (2023-2024)](https://colab.research.google.com/drive/1MoAUgcCaWWJ-c-Rq7Gcc1QmC_PYnyPVd?usp=sharing)
+[ИНДИВИДУАЛЬНОЕ ЗАДАНИЕ (2024-2025)](https://colab.research.google.com/drive/1IIE3vV2Vks1J2GCi9-psqR-sbJ_FUhoA?usp=sharing)
 
 <div id="header" align="center">
 <!--   <img src="https://i.gifer.com/74pZ.gif" width="150"/> -->
