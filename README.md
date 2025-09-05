@@ -2,7 +2,19 @@
 
 В данном репозитории представлен перечень материалов по предмету **"Интеллектуальный анализ данных"** для студентов группы **2023-ФГиИБ-ПИ-1м**.
 
-[Статистика выполнения работ **2023-ФГиИБ-ПИ-1м**](https://docs.google.com/spreadsheets/d/1WRJnxZSJh88zuMht73nq2yUTefZHyAh2ehw-FnQSAAQ/edit?gid=1761023625#gid=1761023625)  
+[Статистика выполнения работ **2024-ФГиИБ-ПИ-1м**](https://docs.google.com/spreadsheets/d/1TsUM1ENrrJe66pq2j6BspRwShB9YzTf6urL4GQf-ygI/edit?gid=1440547512#gid=1440547512)  
+
+| №   | Дата       | Ссылка на теорию                     | Ссылка на практику                  |
+|-----|------------|--------------------------------------|--------------------------------------|
+| 1   | 05.09.2025 |  [Теория №1. Библиотека NumPy](https://colab.research.google.com/drive/1fJCzJZU7hPFgJGdfplMSgM8KbeGFbz76?usp=sharing)      | [Практическая работа №1. Библиотека NumPy](https://colab.research.google.com/drive/1nfY1ED-frHlgLvxpzFpzck3JxnQJYjfn?usp=sharing)   |
+|     |            | [Доп. Теория: База по NumPy](https://u.to/_3YkIg)  | |
+|     |            | [Теория №2. Библиотеки Matplotlib, Plotly](https://colab.research.google.com/drive/1Ch4KnWSF2gmJNmOuYl2_PCSNr9yrl4O-?usp=sharing)      | [Практическая работа №3. Matplotlib. Plotly.](https://u.to/FnckIg)   |
+|     |            | [Теория №3. Библиотека Pandas](https://u.to/7sMWIQ)      | [Практическая работа №4. Библиотека Pandas](https://u.to/N3ckIg)   |
+|     |            | [Доп. Теория: База по Pandas](https://colab.research.google.com/drive/11_nhB0R3RcffgImI98k-jokIxwx_Ahag?usp=sharing)  | |
+
+
+
+
 
 [Дополнительная литература](https://cloud.mail.ru/public/veX3/Aasf7g7U8)
 
