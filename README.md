@@ -10,12 +10,12 @@
 | 1   | 05.09.2025 - 12.09.2025 |  [Теория №1. Библиотека NumPy](https://colab.research.google.com/drive/1fJCzJZU7hPFgJGdfplMSgM8KbeGFbz76?usp=sharing)      | [Практическая работа №1. Библиотека NumPy](https://colab.research.google.com/drive/1nfY1ED-frHlgLvxpzFpzck3JxnQJYjfn?usp=sharing)   |
 |     |            | [Доп. Теория: База по NumPy](https://u.to/_3YkIg)  | |
 |  2  | 18.09.2025| [Теория №2. Библиотеки Matplotlib, Plotly](https://colab.research.google.com/drive/1Ch4KnWSF2gmJNmOuYl2_PCSNr9yrl4O-?usp=sharing)      | [Практическая работа №2. Matplotlib. Plotly.](https://u.to/FnckIg)   |
-|     |            | [Теория №3. Библиотека Pandas](https://u.to/7sMWIQ)      | [Практическая работа №3. Библиотека Pandas](https://u.to/N3ckIg)   |
+|  3  | 25.09.2025| [Теория №3. Библиотека Pandas](https://u.to/7sMWIQ)      | [Практическая работа №3. Библиотека Pandas](https://u.to/N3ckIg)   |
 |     |            | [Доп. Теория: База по Pandas](https://colab.research.google.com/drive/11_nhB0R3RcffgImI98k-jokIxwx_Ahag?usp=sharing)  | |
-|  |            | [Теория №4. Метрики оценки качества моделей в задачах регрессии и классификации](https://u.to/_aFLIQ) |  |
+|  4  | 02.10.2025| [Теория №4. Метрики оценки качества моделей в задачах регрессии и классификации](https://u.to/_aFLIQ) |  |
 |    |            | [Теория №5. Метод K-ближайших соседей (KNN)](https://u.to/cgdsIQ) | [Практическая работа №4. Метод K-ближайших соседей (KNN)](https://clck.ru/3PHCUK) |
 |   |            | [Теория №6. Основные методы подбора оптимальных гиперпараметров](https://u.to/ufVfIQ) |  |
-|   |            | [Теория №7. Линейная и логистическая регрессия](https://u.to/rwpsIQ) | [Практическая работа №5. Линейная и логистическая регрессия](https://u.to/UItYIg) |
+|  5  | 09.10.2025| [Теория №7. Линейная и логистическая регрессия](https://u.to/rwpsIQ) | [Практическая работа №5. Линейная и логистическая регрессия](https://u.to/UItYIg) |
 |   |            | [Теория №8. Решающие деревья для задач классификации](https://u.to/M5mEIQ) |  |
 |    |            | [Теория №9. Решающие деревья для задач регрессии](https://u.to/ypmEIQ) |  |
 |   |            | [Теория №10. Критерии останова для решающих деревьев](https://u.to/SZqEIQ) | [Практическая работа №6. Решающие деревья](https://u.to/tiJSIg) |
