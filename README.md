@@ -27,11 +27,10 @@
 |    |            | [Теория №15. Применение ансамблевых моделей для решения практических задач](https://u.to/xLbRIQ) | [Практическая работа №9. Ансамблевые методы](https://u.to/iotYIg) |
 | 10| 13.11.2025 | [Теория №16. Методы сокращения размерностей](https://colab.research.google.com/drive/1z3VfGF9l9r0U45KnyHC0H6NH2LlJ-mRj?usp=sharing) |[Практическая работа №10. Анализ и сегментация клиентов с помощью алгоритмов кластеризации](https://u.to/nFBlIg) |
 | || [Теория №17. Кластеризация](https://drive.google.com/file/d/1aURuWNS3AaeZ8qMkLbEscK2_eZbZUYpe/view?usp=sharing) |  |
-| |            | [Теория №18. Равертывание ML-моделей](https://u.to/DftfIQ) |  |
-| 11 |20.11.2025| [Использование NumPy, Pandas и GeoPandas для работы с пространственными данными](https://u.to/rk86Ig)<br><br>[Теоретические аспекты и практические примеры получения векторных данных из OpenStreetMap](https://u.to/9SdwIQ)<br><br>[Пример решения задач геоанализа. Знакомство с API](https://u.to/HT9-IQ) | [Практическая работа №11. Работа с векторными данными в GeoPandas](https://colab.research.google.com/drive/1rBJE7G6-jNp1xxZO3HJOL0qvjmdKx0ue?usp=sharing&clckid=1fcca8c2)<br><br>[Практическая работа №12. Геомаркетинговое исследование территорий с применением методов машинного обучения](https://colab.research.google.com/drive/1jRhfCEluKDI-dBB1yfC2JuGzTbZq0C9O?usp=sharing)| |
+| 11 |20.11.2025 - 27.11.2025| [Теория №18. Использование NumPy, Pandas и GeoPandas для работы с пространственными данными](https://u.to/rk86Ig)<br><br>[Теория №19. Теоретические аспекты и практические примеры получения векторных данных из OpenStreetMap](https://u.to/9SdwIQ)<br><br>[Теория №20. Пример решения задач геоанализа. Знакомство с API](https://u.to/HT9-IQ) | [Практическая работа №11. Работа с векторными данными в GeoPandas](https://colab.research.google.com/drive/1rBJE7G6-jNp1xxZO3HJOL0qvjmdKx0ue?usp=sharing&clckid=1fcca8c2)<br><br>[Практическая работа №12. Геомаркетинговое исследование территорий с применением методов машинного обучения](https://colab.research.google.com/drive/1jRhfCEluKDI-dBB1yfC2JuGzTbZq0C9O?usp=sharing)| |
 |   |  | **Дополнительно:**<br><br>[Ультимативный обзор аналитических инструментов GeoPandas](https://u.to/L-hRIQ)<br><br>[Особенности построения интерактивных карт с помощью библиотеки Leafmap](https://u.to/WvA3Ig)| |
-| |            | [Теория №18. Равертывание ML-моделей](https://u.to/DftfIQ) |  |
-
+| 12 |04.12.2025| [Теория №21. Применение методов машинного обучения для пространственного анализа городской инфраструктуры](https://colab.research.google.com/drive/1oCrKWUUfdpqqRG4lD7rG92nYdi4Q18y0?usp=sharing) |  Практическая работа №13. Геоанализ экологических факторов городской среды с применением методов пространственной кластеризации](https://colab.research.google.com/drive/1ai6glSA_5sWU5hDt_KYCjGnx9GtBDrBM?usp=sharing)|
+| |            | [Теория №22. Равертывание ML-моделей](https://u.to/DftfIQ) |  |
 
 
 
