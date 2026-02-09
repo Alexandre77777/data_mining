@@ -1,15 +1,13 @@
 # Интеллектуальный анализ данных
 
-В данном репозитории представлен перечень материалов по предмету **"Основы машинного обучения"** и **"Интеллектуальный анализ данных"** для студентов групп **2024-ФГиИБ-ПИ-1б** и **2024-ФГиИБ-ПИ-1м**.
-
-[Статистика выполнения работ **2024-ФГиИБ-ПИ-1б**](https://docs.google.com/spreadsheets/d/18eQi_QjApEehjhE2fU8_-lzBCGiPAfZ0DoDe0keFgpw/edit?gid=1387726491#gid=1387726491)  
+В данном репозитории представлен перечень материалов по предмету **"Интеллектуальный анализ данных"** для студентов группы **2024-ФГиИБ-ПИ-1м**.
 
 [Статистика выполнения работ **2024-ФГиИБ-ПИ-1м**](https://docs.google.com/spreadsheets/d/1TsUM1ENrrJe66pq2j6BspRwShB9YzTf6urL4GQf-ygI/edit?gid=1440547512#gid=1440547512)  
 
 
 | №   | Дата       | Ссылка на теорию                     | Ссылка на практику                  |
 |-----|------------|--------------------------------------|--------------------------------------|
-| 1   | 09.02.2025 |  [Теория №1. Библиотека NumPy](https://colab.research.google.com/drive/1fJCzJZU7hPFgJGdfplMSgM8KbeGFbz76?usp=sharing)      | [Практическая работа №1. Библиотека NumPy](https://colab.research.google.com/drive/1nfY1ED-frHlgLvxpzFpzck3JxnQJYjfn?usp=sharing)   |
+| 1   | |  [Теория №1. Библиотека NumPy](https://colab.research.google.com/drive/1fJCzJZU7hPFgJGdfplMSgM8KbeGFbz76?usp=sharing)      | [Практическая работа №1. Библиотека NumPy](https://colab.research.google.com/drive/1nfY1ED-frHlgLvxpzFpzck3JxnQJYjfn?usp=sharing)   |
 |     |            | [Доп. Теория: База по NumPy](https://u.to/_3YkIg)  | |
 |  2  || [Теория №2. Библиотеки Matplotlib, Plotly](https://colab.research.google.com/drive/1Ch4KnWSF2gmJNmOuYl2_PCSNr9yrl4O-?usp=sharing)      | [Практическая работа №2. Matplotlib. Plotly.](https://u.to/FnckIg)   |
 |  3  | | [Теория №3. Библиотека Pandas](https://u.to/7sMWIQ)      | [Практическая работа №3. Библиотека Pandas](https://u.to/N3ckIg)   |
@@ -49,4 +47,4 @@
 <!--   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdoYmNtamZybXRldXU4bjI0ZnFienhodnVtZHVqbzVvNTJ4MXdxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UcK7JalnjCz0k/giphy.gif" width="125"/>
 </div> -->
 
-###### Адрес электронной почты преподавателя: a_streltsov@edu.miigaik.ru
+###### Адрес электронной почты преподавателя: streltsovas@miigaik.ru
